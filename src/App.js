@@ -6,10 +6,9 @@ import Section from './components/Section/Section'
 function App() {
   return (
     <>
-      <header>Agrofy UI Components</header>
+      <header><h1>Agrofy UI Components</h1></header>
       <main>
         <Section>
-          <h1>Buttons!</h1>
         </Section>
       </main>
     </>
