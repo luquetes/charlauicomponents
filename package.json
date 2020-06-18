@@ -9,7 +9,8 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
-    "styled-components": "^5.1.1"
+    "styled-components": "^5.1.1",
+    "agrofy-ui-components": "https://www.myget.org/F/agrofylibrary/auth/221fb2b0-6de2-4404-ac67-fe83aa60cf3b/npm/agrofy-ui-components/-/agrofy-ui-components-3.13.0.tgz"
   },
   "scripts": {
     "start": "react-scripts start",
